@@ -1,2 +1,2 @@
 # Coming Soon 
-Parallel-Boosting-Neural-Network
+Parallel Boosting Neural Network
